@@ -1,0 +1,3 @@
+on fs
+    wait /dev/block/by-name/vgc
+    mount ext4 /dev/block/by-name/vgc /vgc ro barrier=1 discard

@@ -1,0 +1,14 @@
+{
+ "DriverProxTempCali": 1,
+ "DualOrIncProx": 1,
+ "MinimumBrightHighThreshold": 376,
+ "ScreenOnProxTempCali": 1,
+ "NotifyLcmBrightnessToDriverList": 1,
+ "InstantCali": 1,
+ "engineModeForbidSarCali": 1,
+ "MaxBrightness": 2047,
+ "EngineModeRejectReduceSar": 1,
+ "ScreenOnWaitLux": 350,
+ "MtkSupportDsiCommand": 1,
+ "BoostBrightness": 1024
+}
