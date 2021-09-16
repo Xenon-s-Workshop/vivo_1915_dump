@@ -1,0 +1,9 @@
+vendor/lib64/libvivo3rd_sensetime.so
+vendor/camera3rd/sensetime
+vendor/camera3rd/sensetime/calibration.lic
+vendor/camera3rd/sensetime/license.lic
+vendor/camera3rd/sensetime/dualcapture.lic
+system/system/app/VivoGallery/VivoGallery.apk
+system/system/app/VivoCamera/VivoCamera.apk
+system/system/priv-app/Settings/Settings.apk
+system/system/product/priv-app/Velvet/Velvet.apk

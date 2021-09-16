@@ -1,0 +1,14 @@
+# full_k68v1_64-user 11 RP1A.200720.012 eng.compil.20210608.211651 release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: 1915
+- flavor: full_k68v1_64-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: eng.compil.20210608.211651
+- tags: release-keys
+- fingerprint: vivo/1915N/1915:11/RP1A.200720.012/compiler0608211207:user/release-keys
+- is_ab: false
+- brand: vivo
+- branch: full_k68v1_64-user-11-RP1A.200720.012-eng.compil.20210608.211651-release-keys
+- repo: vivo_1915_dump

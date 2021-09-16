@@ -1,0 +1,14 @@
+kernel=kernel
+ramdisk=ramdisk
+dt=dt.img
+page_size=2048
+kernel_size=12159142
+ramdisk_size=798419
+dtb_size=2
+base_addr=0x40078000
+kernel_offset=0x00008000
+ramdisk_offset=0x07c08000
+tags_offset=0x0bc08000
+cmd_line='bootopt=64S3,32N2,64N2 product.version=PD1934F_EX_A_6.10.3 fingerprint.abbr=11/RP1A.200720.012 buildvariant=user'
+board=""
+format=gzip
